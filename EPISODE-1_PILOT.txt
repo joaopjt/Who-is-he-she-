@@ -2,7 +2,7 @@ WHO IS HE/SHE? - THE PILOT
 
 INTRO
 
-1	FADE IN                                                                          1
+1	FADE IN                                                                        1
 
 	RADIO STATION
 
