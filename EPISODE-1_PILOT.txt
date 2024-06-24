@@ -1,4 +1,4 @@
-WHO IS HE/SHE? - PILOT
+WHO IS HE/SHE? - THE PILOT
 
 INTRO
 
@@ -10,7 +10,7 @@ JOHN
 					“Radio WHCR 102.7, and the weather report,
 					is going to be a rainy day after all, here
 					in Chicago. You can check for details in our
-					website, WHCR102.com or in our android and iOS
+					website, WHCR102.com or in our android/iOS
 					application.”
 
 	BACKGROUND SOUND - “The best radio station in Chicago, WHCR.”.
@@ -92,10 +92,25 @@ ATTENDANT
 
 	WALK AWAY.
 
-	He goes into the sidewalk and calls for a taxi on the street. Enter in and say:
+	He goes into the sidewalk and calls for a taxi on the street.
+	Enter in and say:
 
 JOHN
 					Hyde Park, please.
 
-	The taxi takes him away. He stops in Nichols, John Fountain Park, and sits in a chair. Takes his phone out, and start using it.
+	The taxi takes him away. He stops in Nichols, John Fountain Park,
+	and sits in a chair. Takes his phone out, and start using it.
+
+JOHN
+					Hi, sir, can you please tell me what time 
+					it is?
+
+PERSON #01
+ 					9pm.
+
+	JOHN STARTS THINKING:
+	“Is 8pm a clock on Hong Kong right now. I still can’t believe
+	my withdraw didn’t fall trough it yet. I need to do some research.
+	What about getting home earlier and write that code I need so much?”
+
 	
