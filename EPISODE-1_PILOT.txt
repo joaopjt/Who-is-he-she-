@@ -64,19 +64,19 @@ ATTENDANT
 					Here you go. Anything more I can do for you?
 
 JOHN
-					No, that will be all, thanks. Actually, can you
-					do me a favor?!
+					No, that will be all, thanks!
+					Actually, can you do me a favor?!
 
 ATTENDANT
 					Yes, how can I help you?
 
 JOHN
-					I need contact with the investment team, would
-					you give me your helpline desk number, please?
+					Would you give me your helpline desk number,
+					please?
 
 ATTENDANT
-					Yes, I will give you our card, just a sec… Here
-					you go. Anything more?
+					Yes, I will give you our card, just a sec…
+					Here you go. Anything else?
 
 JOHN
 					That will be all, thanks.
