@@ -23,20 +23,14 @@ MARY
 					I still can’t believe you are leaving us.
 
 JOHN
-					Bones of the Craft. Even in New York,
-					I’ll be getting in touch with you later on.
+					Bones of the Craft.
 
 MARY
-					It’s a shame. We could still, at least,
-					take the night out off in my apartment.
+					It’s a shame. At least, we could take
+					the night out off in my apartment.
 
 JOHN
-					I can’t, got plans already. I taught you
-					could’t see anyone out at Fridays.
-
-MARY
-					Markus dumped me off, again! So, that’s
-					why I’m asking.
+					I can’t, got plans already.
 
 JOHN
 					What happened to my last paycheck?
@@ -44,8 +38,8 @@ JOHN
 
 MARY
 					A little less drama, John. I will speak
-					to your boss before you leave, ok? Now,
-					kiss me goodbye.
+					to your boss before you leave, ok?! See
+					you later.
 
 	John kisses her in the forehead and leaves.
 
